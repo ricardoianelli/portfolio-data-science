@@ -4,7 +4,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ricardoianelli/portfolio-data-science/issues)
   
 # About me
-My name is Ricardo Ianelli, I'm a 28 years old software developer, data scientist and former physics teacher.  
+My name is Ricardo Ianelli, software developer, data science student and former physics teacher.  
 Here you'll find my collection of published projects that I store at GitHub.  
 If you have any suggestions or critics, please, [contact me](mailto:ricardoianelli@hotmail.com) or post on [issues](https://github.com/ricardoianelli/portfolio-data-science/issues).
   
